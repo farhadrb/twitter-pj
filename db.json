@@ -1,0 +1,71 @@
+{
+  "tweets":[
+    {
+            "sender":{
+                "name": "Xiaomi",
+                "id: "@xiaomi",
+                "img": "images/xiaomi.png"
+            },
+            "text":"farhad"
+        },
+        {
+            "sender":{
+                name"": "فرهاد ربیعی",
+                ""id"": "@farhad",
+                ""img"": "images/koooh_user.png"
+            },
+            "text":"#farhad"
+        },
+        {
+            "sender":{
+                ""name"": "Xiaomi",
+                ""id"": "@xiaomi",
+                ""img"": "images/xiaomi.png"
+            },
+            "text":"farhad"
+        },
+        {
+            "sender":{
+                ""name"": "فرهاد ربیعی",
+                ""id"": "@farhad",
+                ""img"": "images/koooh_user.png"
+            },
+            "text":"farhad"
+        }
+  ],
+  "hashtags": [
+    "پرچم دار جدید",
+    "کرونا ویروس",
+    "سامسونگ",
+    "منو سامر",
+    "منو سامر",
+    "منو سامر",
+],
+"user":[
+      {
+        "name": "Xiaomi",
+        "id": "@xiaomi",
+        "img": "/images/xiaomi.png"
+    },
+    {
+        "name": "samsung",
+        "id": "@samsung",
+        "img": "/images/samsung.png"
+    },
+    {
+        "name": "بیل گیتس",
+        "id": "@BillGates",
+        "img": "/images/bil.png"
+    },
+    {
+        "name": "مایک بای",
+        "id": "@mMike-IMC",
+        "img": "/images/mike.png"
+    },
+    {
+        "name": "اشرلی ونگ",
+        "id": "@ُShilrey-iMC",
+        "img": "/images/shily.png"
+    }
+]
+}
